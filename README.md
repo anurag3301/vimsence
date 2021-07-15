@@ -1,10 +1,11 @@
 <p align="center">
   <h1 align="center">VimSence</h1>
+  <p align="center"><img src="https://user-images.githubusercontent.com/52702259/125729404-680ca857-d238-4af6-84c3-41cf75f7bd33.png"></p>
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/aL4g3nx.png" width="300">
-  <img src="https://i.imgur.com/nrhZj4O.png" width="300">
+  <img src="https://user-images.githubusercontent.com/52702259/125729400-c0f912ef-582c-42f5-8ea8-be85683af547.png" width="300">
+  <img src="https://user-images.githubusercontent.com/52702259/125729983-d93e0a5b-5daa-4dbd-9b51-f0d835124f00.png" width="300">
 </p>
 
 ## Getting Started
@@ -16,34 +17,34 @@ You need to have Vim/NeoVim with Python3 support
 
 ### Installing
 #### [Vim-Plug](https://github.com/junegunn/vim-plug)
-1. Add `Plug 'vimsence/vimsence'` to your vimrc file.
+1. Add `Plug 'anurag3301/vimsence'` to your vimrc file.
 2. Reload your vimrc or restart
 3. Run `:PlugInstall`
 
 #### [Vundle](https://github.com/VundleVim/Vundle.vim) or similar
-1. Add `Plugin 'vimsence/vimsence'` to your vimrc file.
+1. Add `Plugin 'anurag3301/vimsence'` to your vimrc file.
 2. Reload your vimrc or restart
 3. Run `:BundleInstall`
 
 #### [NeoBundle](https://github.com/Shougo/neobundle.vim)
-1. Add `NeoBundle 'vimsence/vimsence'` to your vimrc file.
+1. Add `NeoBundle 'anurag3301/vimsence'` to your vimrc file.
 2. Reload your vimrc or restart
 3. Run `:NeoUpdate`
 
 #### [Dein.vim](https://github.com/Shougo/dein.vim)
-1. Add `call dein#add('vimsence/vimsence')` to your vimrc file.
+1. Add `call dein#add('anurag3301/vimsence')` to your vimrc file.
 2. Reload your vimrc or restart
 3. Run `:call dein#install()`
 
 #### [Pathogen](https://github.com/tpope/vim-pathogen)
 ```sh
 cd ~/.vim/bundle
-git clone https://github.com/vimsence/vimsence.git
+git clone https://github.com/anurag3301/vimsence.git
 ```
 
 #### Vim8 packages
 ```sh
-git submodule add https://github.com/vimsence/vimsence.git vimsence
+git submodule add https://github.com/anurag3301/vimsence.git vimsence
 ```
 
 ## Configuration
