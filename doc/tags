@@ -10,7 +10,6 @@ VimSenceIntroduction	vimsence.txt	/*VimSenceIntroduction*
 VimSenceLicense	vimsence.txt	/*VimSenceLicense*
 VimSenceUsage	vimsence.txt	/*VimSenceUsage*
 Vimsence-contents	vimsence.txt	/*Vimsence-contents*
-VimsenceChangelog	vimsence.txt	/*VimsenceChangelog*
 g:vimsence_discord_flatpak	vimsence.txt	/*g:vimsence_discord_flatpak*
 g:vimsence_ignored_directories	vimsence.txt	/*g:vimsence_ignored_directories*
 g:vimsence_ignored_filetypes	vimsence.txt	/*g:vimsence_ignored_filetypes*
